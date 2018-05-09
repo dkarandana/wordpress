@@ -1,0 +1,16 @@
+.profile-pic h3 {
+	min-height: 200px;
+	background: no-repeat;
+	background-position: 0 26px;
+	background-size: contain;
+}
+
+.demo-card__primary {
+    padding: 1rem;
+}
+
+.demo-card__secondary {
+    color: rgba(0, 0, 0, 0.54);
+    color: var(--mdc-theme-text-secondary-on-background, rgba(0, 0, 0, 0.54));
+    padding: 0 1rem 8px 1rem;
+}
